@@ -19,9 +19,9 @@ Os links estão organizados em ordem alfabética nas categorias:
 <h1>Artigos | Posts</h1>
 
 * [7 Classical Assumptions of Ordinary Least Squares (OLS) Linear Regression](https://statisticsbyjim.com/regression/ols-linear-regression-assumptions)
-* [11 Important Model Evaluation Metrics for Machine Learning Everyone should know]
-* [28 Jupyter Notebook Tips, Tricks, and Shortcuts]
-* [A tutorial on Principal Components Analysis]
+* [11 Important Model Evaluation Metrics for Machine Learning Everyone should know](https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/)
+* [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+* [A tutorial on Principal Components Analysis](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf)
 * [AI for Human Rights | The Alan Turing Institute]
 * [An Update on the HDSI’s Efforts to Combat Racism and Bias | The Harvard Data Science Initiative]
 * [Anthony Goldbloom gives you the secret to winning Kaggle competitions]
