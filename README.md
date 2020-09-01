@@ -117,6 +117,7 @@ Os links estão organizados em ordem alfabética nas categorias:
 <h1>Profissionais para acompanhar | Conhecer</h1>
 
 * [Allie Miller | Artificial Intelligence Business Leader and International Speaker in San Francisco, CA](https://www.alliekmiller.com/)
+* [Cassie Kozyrkov | Head of Decision Intelligence, Google](https://medium.com/@kozyrkov)
 * [Gabriela de Queiroz | Founder of AI Inclusive & R-Ladies + Machine Learning Manager](https://k-roz.com/)
 * [Julia Stoyanovich | Tandon School of Engineering NY](https://engineering.nyu.edu/faculty/julia-stoyanovich)
 
